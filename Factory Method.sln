@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory Method", "Factory Method\Factory Method.csproj", "{0446C614-868C-44B9-8ADC-239CF1A0DDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0446C614-868C-44B9-8ADC-239CF1A0DDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0446C614-868C-44B9-8ADC-239CF1A0DDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0446C614-868C-44B9-8ADC-239CF1A0DDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0446C614-868C-44B9-8ADC-239CF1A0DDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E9C9EFD-194C-4B4B-B9C2-F2CC5C98426C}
+	EndGlobalSection
+EndGlobal
